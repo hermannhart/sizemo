@@ -68,15 +68,6 @@ This README documents the step-by-step development of the earthquake prediction 
 
 ---
 
-## Recommendations for Scientific Presentation
-
-- The evolution documents a complete scientific development process.
-- Each version builds systematically on the previous, expanding methods and complexity.
-- For presentations to experts (e.g., Prof. Stefan Wiemer), focus on the main innovations and validation results of the final version (`boil5.py`), but also transparently show the methodological development.
-- This README serves as documentation for review and discussion.
-
----
-
 ## Additional Notes
 
 - All scripts can be run independently to test their respective approaches.
