@@ -1,3 +1,8 @@
+# TheQA Research for Computational Problems
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: Elastic License 2.0](https://img.shields.io/badge/Commercial%20License-ELv2-orange)](LICENSE-COMMERCIAL.txt)
+
 # Evolution of the Earthquake Prediction Scripts
 
 This README documents the step-by-step development of the earthquake prediction systems in this repository, from early conceptual models to a production-ready, scientifically validated system using real data.
@@ -77,6 +82,31 @@ This README documents the step-by-step development of the earthquake prediction 
 - All scripts can be run independently to test their respective approaches.
 - For replication of scientific results, `boil5.py` is recommended.
 - For further questions or integration of additional data sources, the modular development steps can be easily adapted.
+
+### **License**
+- This project follows a dual-license model:
+
+- For Personal & Research Use: CC BY-NC 4.0 → Free for non-commercial use only.
+- For Commercial Use: Companies must obtain a commercial license (Elastic License 2.0).
+
+📜 For details, see the LICENSE file.
+
+
+### ***Contributors***
+
+- Matthias - Human resources
+- Arti Cyan - Artificial  resources
+
+
+### ***Contact & Support***
+
+- For inquiries regarding commercial licensing or support, please contact:📧 theqa@posteo.com 🌐 www.theqa.space 🚀🚀🚀
+
+- 🚀 Get started with TheQA and explore new frontiers in optimization! 🚀
+
+---
+![SIZEMO](https://github.com/hermannhart/sizemo/blob/main/sizemo.jpg)
+
 
 ---
 
