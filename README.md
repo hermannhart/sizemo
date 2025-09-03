@@ -3,7 +3,7 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![License: Elastic License 2.0](https://img.shields.io/badge/Commercial%20License-ELv2-orange)](LICENSE-COMMERCIAL.txt)
 
-# SR Earthquake Prediction System (boil5.py)
+# SIZEMO SR Earthquake Prediction System (boil5.py)
 
 ## Overview
 
@@ -157,4 +157,4 @@ Criticality Index combines:
 - 🚀 Get started with TheQA and explore new frontiers in optimization! 🚀
 
 ---
-![SIZEMO](https://github.com/hermannhart/sizemo/sizemo.jpg)
+![SIZEMO](https://github.com/hermannhart/sizemo/blob/main/sizemo.jpg)
