@@ -5,19 +5,18 @@
 
 # SIZEMO SR Earthquake Prediction System
 
-Evolution to Version 8: Stochastic Resonance Breakthrough
-What started as a simple observation about boiling water has evolved into a possible earthquake prediction system achieving unprecedented F1-scores of 0.90 in Japan through the application of stochastic resonance to seismic systems.
-- The Core Innovation: Stochastic Resonance in Seismic Systems
-Possible Physics Behind SIZEMO (vague!)
-The Earth's crust behaves like a self-organized critical system, accumulating stress until it reaches criticality. We discovered that this process contains a weak yearly-scale signal that can be amplified through stochastic resonance:
+Evolution to Version 8: 
+What started as a simple observation about boiling water has evolved into a possible earthquake prediction system achieving F1-scores of 0.90 in Japan through the application of stochastic resonance to seismic systems.
 
-## The Formula behind it
+## The Core Innovation: Stochastic Resonance in Seismic Systems
+### Possible Physics Behind SIZEMO (vague!)
+The Earth's crust behaves like a self-organized critical system, accumulating stress until it reaches criticality. We discovered that this process contains a weak yearly-scale signal that can be amplified through stochastic resonance:
 ```bash
 stress_field_sr = stress_field + np.random.normal(0, σ_c, shape)
 ```
+The Formula behind it.
 
 Where σ_c is the optimal noise level that maximizes signal detection:
-
 - Japan: σ_c = 0.006 (subduction zone)
 . California: σ_c = 0.0006 (transform fault)
 - Chile: σ_c = 0.002 (subduction zone)
