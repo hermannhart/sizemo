@@ -4,6 +4,7 @@
 [![License: Elastic License 2.0](https://img.shields.io/badge/Commercial%20License-ELv2-orange)](LICENSE-COMMERCIAL.txt)
 
 # SIZEMO SR Earthquake Prediction System
+![SIZEMO](https://github.com/hermannhart/sizemo/blob/main/sizemo2.jpg)
 
 Evolution to Version 8: 
 What started as a simple observation about boiling water has evolved into a possible earthquake prediction system achieving F1-scores of 0.90 in Japan through the application of stochastic resonance to seismic systems.
