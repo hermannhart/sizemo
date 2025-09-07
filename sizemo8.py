@@ -63,7 +63,7 @@ logger = logging.getLogger(__name__)
 
 class AdvancedOptimizedPredictor:
     """
-    Vollständig optimiertes Erdbebenvorhersagesystem mit automatischer Parameter-Anpassung
+    SIZEMO - Erdbebenvorhersagesystem mit automatischer Parameter-Anpassung
     """
     
     def __init__(self, region_bounds, grid_resolution_km=10):
@@ -806,7 +806,7 @@ class AdvancedOptimizedPredictor:
             if avg_f1 > 0.5 and avg_auc > 0.7:
                 assessment += "✓ System zeigt starke Vorhersagefähigkeit\n"
                 assessment += "✓ Optimierung erfolgreich\n"
-                assessment += "✓ Bereit für wissenschaftliche Publikation\n"
+                assessment += "✓ Bereit für Implementierung"
             elif avg_f1 > 0.3 and avg_auc > 0.6:
                 assessment += "✓ System zeigt moderate Vorhersagefähigkeit\n"
                 assessment += "⚠ Weitere Optimierung empfohlen\n"
@@ -820,8 +820,8 @@ class AdvancedOptimizedPredictor:
             assessment += "\nNächste Schritte:\n"
             if avg_f1 > 0.5:
                 assessment += "  1. Prospektive Validierung starten\n"
-                assessment += "  2. Paper-Draft vorbereiten\n"
-                assessment += "  3. Kontakt mit Experten aufnehmen\n"
+                assessment += "  2. Ergebniss zusammenfassen"
+                assessment += "  3. Kontakt mit Experten erwägen"
             else:
                 assessment += "  1. Feature Engineering erweitern\n"
                 assessment += "  2. Hyperparameter-Tuning verfeinern\n"
@@ -1042,3 +1042,4 @@ if __name__ == "__main__":
     # Oder alle Regionen mit erweiterter Optimierung
 
     results = run_all_regions_advanced()
+
