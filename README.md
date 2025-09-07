@@ -112,7 +112,7 @@ Multiple magnitude thresholds tested
 - Sample Size for Large Events: M5.5+ events have limited samples for robust statistics
 - No Prospective Testing Yet: All validation is retrospective
 
-### Why This Could Works: The Stochastic Resonance Hypothesis
+### Why This Could Work: The Stochastic Resonance Hypothesis
 Traditional approaches treat seismic noise as a problem to be filtered. We discovered it's actually the key to prediction:
 
 - The Earth's crust has a weak periodic signal (yearly scale)
